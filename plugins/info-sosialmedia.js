@@ -16,25 +16,25 @@ let jarot = `*▸  - —「 𝘚𝘰𝘴𝘪𝘢𝘭 𝘔𝘦𝘥𝘪𝘢 𝘉�
 
 「 𝘚𝘶𝘱𝘰𝘳𝘵𝘵 𝘉𝘰𝘵 𝘋𝘦𝘯𝘨𝘢𝘯 𝘊𝘢𝘳𝘢 」
 
-*❉ 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘠𝘰𝘶𝘵𝘶𝘣𝘦 𝘉𝘰𝘵*
-⫹⫺ https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
+*❉ 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝚖𝚊𝚜𝚞𝚔 𝚔𝚎𝚔 𝚐𝚛𝚞𝚙 𝘉𝘰𝘵*
+⫹⫺ https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G
 *❉ 𝘍𝘰𝘭𝘭𝘰𝘸 𝘐𝘯𝘴𝘵𝘢𝘴𝘨𝘳𝘢𝘮 𝘉𝘰𝘵*
-⫹⫺ https://Instagram.com/jarotr_
+⫹⫺ https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G_
 
 「𝘎𝘳𝘰𝘶𝘱 𝘉𝘰𝘵 𝘰𝘧𝘧𝘤𝘪𝘢𝘭  && 𝘎𝘳𝘰𝘶𝘱 𝘋𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯」
 
 𝘎𝘳𝘰𝘶𝘱 𝘙𝘪𝘴𝘮𝘢𝘣𝘰𝘵𝘻 𝘖𝘧𝘧𝘤
-⫹⫺ https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL
+⫹⫺ https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G
 
 𝘎𝘳𝘰𝘶𝘱 𝘋𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯
-⫹⫺ https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda
+⫹⫺ https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G
 
 `
 conn.sendButtonDoc(m.chat, jarot, wm,'Thanks','You', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/jarotr_",
     mediaType: "VIDEO",
     description: "https://Instagram.com/jarotr_", 
-    title: 'oscar-MultiDevice',
+    title: 'RCTI-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
