@@ -4,19 +4,19 @@ let handler = async (m, { conn }) => {
 let sh = '15'
 let info = `
 
-*⫹⫺ Halo Kak Welcome Store Oscar*
- ⫹⫺ 𝘚𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘢 𝘚𝘵𝘰𝘳𝘦 𝘖𝘴𝘤𝘢𝘳-𝘔𝘥 𝘩𝘢𝘯𝘺𝘢 𝘪𝘯𝘪
+*⫹⫺ Halo Kak Welcome Store 𝚁𝙲𝚃𝙸*
+ ⫹⫺ 𝘚𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘢 𝘚𝘵𝘰𝘳𝘦 𝚛𝚌𝚝𝚒-𝘔𝘥 𝘩𝘢𝘯𝘺𝘢 𝘪𝘯𝘪
  ⫹⫺ Di Jamin Amanah kok
 `
 const sections = [
    {
-	title: `⫹⫺  Store Oscar`,
+	title: `⫹⫺  Store 𝚁𝙲𝚃𝙸`,
 	rows: [
 	    {title: "🔖 TutorJadibot", rowId: '.order *Paket:* TutorJadibot', description: 'Tutor Jadibot/belajar ngebot' },
 	    {title: "⛽ NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
 	]
     }, {
-    title: `⫹⫺ Suport Store Oscar-Md`,
+    title: `⫹⫺ Suport Store 𝚁𝙲𝚃𝙸-Md`,
 	rows: [
 	   {title: "📮Donasi", rowId: ".donasi"},
 	  {title: "🎀 Iklan Oscar-Md", rowId: ".sosialmedia"},
