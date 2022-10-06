@@ -30,28 +30,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_'
-global.sgh = 'github.com/Alpiii22' //github
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group whatsapp
+global.sig = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G'
+global.sgh = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G' //github
+global.sgc = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
+global.syt = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G'
+global.snh = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
+global.pdana = '6289516947204' //dana
 global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pgopay = '6289516947204' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
-global.pgdc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group WhatsApp 
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Jarotoffc'
+global.ppulsa = '6289516947204' //indosat
+global.pgdc = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G' //group WhatsApp 
+global.ppulsa2 = '6289516947204' // kalau ada kartu lain isi aja
+global.psaweria = 'https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62857-23517757'
-global.nomorown = '15196086971'
-global.namebot = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nomorbot = '6289516947204'
+global.nomorown = '6289516947204'
+global.namebot = 'RCTI-𝘔𝘥'
+global.nameown = 'IYAN 𝘖𝘧𝘧𝘤'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -60,11 +60,11 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['15196086971', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
-  // [number, dia creator/owner?, dia developer?]
+  ['6289516947204', 'iyan 𝘖𝘧𝘧𝘤', true],
+  ['6289516947204', 'iyan 𝘖𝘧𝘧𝘤', true],
+  ['6289516947204', 'iyan 𝘖𝘧𝘧𝘤', true],
+  ['6289516947204', 'iyan 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  // [number dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
@@ -111,12 +111,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 」' //Main Watermark
+global.wm = '                「 𝙍𝘾𝙏𝙄 𝘽𝙊𝙏 -V2 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘰𝘵 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 '
+global.wm3 = '⫹⫺ 𝙍𝘾𝙏𝙄 𝘽𝙊𝙏 -V2 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝘑𝘢𝘳𝘰𝘵`
+global.titlebot = `⫹⫺ WhatsApp Bot | 𝙍𝘾𝙏𝙄 𝘽𝙊𝙏 -V2`
 global.author = '                「 𝘉𝘖𝘛 𝘔𝘶𝘭𝘵𝘪𝘋𝘦𝘷𝘪𝘤𝘦  あ」'
 
 
@@ -191,7 +191,7 @@ global.htjava = '❒'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.stickpack = 'iyan 𝘖𝘧𝘧𝘤'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
